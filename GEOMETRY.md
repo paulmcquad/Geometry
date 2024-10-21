@@ -6,8 +6,8 @@ Geometry means (Land or Earth) measurement
 
 * Point -  0 dimensional
 * Line  -  1 dimensional (no endpoint)
-    * Ray - in 1 direction (1 endpoint)
-    * Line Segment - finite (2 endpoints)
+    * Ray - in 1 direction (1 endpoint) - Create Angles
+    * Line Segment - finite (2 endpoints) - Create Shapes
 * Plane - 2 dimensional
 * Distance - 1 or higher
 * Angle - 2 or higher
